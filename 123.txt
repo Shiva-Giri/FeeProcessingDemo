@@ -1,4 +1,0 @@
-hello there!
-
-new branch create - BugFix
-go and merge the changes to master branch...
