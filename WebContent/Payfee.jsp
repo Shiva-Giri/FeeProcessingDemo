@@ -34,12 +34,11 @@ request.setAttribute("list",list);
 
 
 
- <c:if test ="${10 > 2000}">
+ 
          
     <td><a href="PayProcess.jsp?id=${u.getId()}">Pay Now</a></td>
 
- </tr>
- 	 </c:if>	 
+ </tr>  
 </c:forEach>  
 </table>
 
