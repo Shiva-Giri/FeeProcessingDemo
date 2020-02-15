@@ -17,3 +17,4 @@ to be made and go on further with the payment process.
 
 Note : Add the required mysqlconnector file, JSTL, and library files in the IDE to run 
        the project on local system. 
+Site is live at Github Pages.
